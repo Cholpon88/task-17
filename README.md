@@ -1,4 +1,4 @@
-# task-17https://cholpon88.github.io/task-17/
+# task-17
 - **Описание задания**
     1. [http://code.mu/ru/javascript/book/prime/destructuring/array/](http://code.mu/ru/javascript/book/prime/destructuring/array/)
         1. Выполнить задачи: 1, 2, 3, 4, 5, 6
